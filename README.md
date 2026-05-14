@@ -1,19 +1,15 @@
 # An Online Registration Form
 
-For this project I had to build a responsive, mobile-friendly registration form using a wide variety of HTML form input types and attributes. Using the supplied mockup files, I had to build a mobile and desktop version of the form using media queries, and a "mobile-first" approach. 
+* Developed a responsive, mobile-first registration form using HTML5 and CSS3 based on provided design mockups
+* Implemented a wide range of HTML form elements and attributes to capture structured user input effectively
+* Applied HTML5 validation features (e.g., required fields) to improve data accuracy and enhance user interaction
+* Enhanced user experience by adding placeholder text and improved visual styling, increasing form usability and clarity
+* Incorporated CSS transitions on input focus states to create interactive and user-friendly form feedback
+* Extended the base design by adding custom styling and section background enhancements, improving overall UI presentation
+* Ensured consistent functionality through cross-browser testing on Chrome, Firefox, and Microsoft Edge
+* Delivered a high-quality implementation that exceeded project requirements and expectations
 
-I went for the Exceeds Expectations Grading where I had to: 
-
-1. Further enhance the project by adding additional placeholder text for the other text fields. 
-2. Add the HTML5 required attribute to input fields. 
-3. Add a new background-color to one of the main sections of the site. 
-4. Add additional styling enhancements to the form by adding transitions to the focus states of form field elements. 
-
-Browsers tested for compatibility: 
-
-1. Chrome
-2. Firefox
-3. Edge
+Technologies: HTML, CSS
 
 Grade: Exceeds Expectations
 
